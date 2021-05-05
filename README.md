@@ -11,7 +11,9 @@ I have made an simple UI as Scrolling Text
 
 <img width="200" alt="scrolling text3" src="https://user-images.githubusercontent.com/68476336/116578930-82ec1880-a92f-11eb-92a3-8f4412007cbb.png">
 
+# APK
 
+You can checkout Apk [here](https://github.com/karanchhatwani1/ScrollingTask/blob/master/app-debug.apk)
 
 
 
